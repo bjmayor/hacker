@@ -1,0 +1,6 @@
+dministrator:password
+admin:12345
+root:secret
+guest:guest
+root:toor
+test:go2live.cn
